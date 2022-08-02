@@ -1,6 +1,6 @@
 # hello-world
 
-This github rep would consist of different types of Hello World in multiple Programming languages. We plan to hit around 30+ programming languages used to print out "Hello World".
+All hello-world messages in different programming languages
 
 # Sources
 
